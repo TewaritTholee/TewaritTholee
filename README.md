@@ -3,16 +3,18 @@ TewaritTholee/TewaritTholee is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center" style="background: linear-gradient(135deg, #6e8efb, #a777e3); padding: 50px; border-radius: 10px;">
-  <h1 style="color: white;">Welcome to my GitHub Profile</h1>
+<div align="center" style="background: linear-gradient(135deg, #000000, #4a4a4a, #00aaff, #cceeff); padding: 50px; border-radius: 10px;">
+  <h1 style="color: white;">Welcome to My GitHub Profile</h1>
+  <p style="color: white; font-size: 18px;">Software Developer | Full Stack Enthusiast | Lifelong Learner</p>
 </div>
 
-- 👋 Hi, I’m @TewaritTholee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m **@TewaritTholee**
+- 👀 I’m passionate about software development, web technologies, and cybersecurity.
+- 🌱 I’m currently deepening my knowledge in **Full Stack Development** and **Cybersecurity**.
+- 💞️ I’m looking to collaborate on **innovative web applications** and **open-source projects**.
+- 📫 You can reach me via email at **tewarit@example.com**.
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love solving complex problems and learning new technologies to stay ahead in the fast-changing tech world!
+
 
 
