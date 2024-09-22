@@ -16,26 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love solving complex problems and learning new technologies to stay ahead in the fast-changing tech world!
 
-body {
-  background: linear-gradient(135deg, #000000, #4a4a4a, #00aaff, #cceeff);
-  height: 100vh;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-h1 {
-  color: white;
-  font-family: Arial, sans-serif;
-  font-size: 36px;
-}
-
-p {
-  color: white;
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-}
 
 
 
