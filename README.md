@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img src="https://your-image-link.com" alt="background image" style="width:100%; height:auto;">
+  <img src="[https://your-image-link.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fbackground&psig=AOvVaw1brmCXn5LL1doiZjjq1kUh&ust=1727100327912000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPibxZ7c1ogDFQAAAAAdAAAAABAE)" alt="background image" style="width:100%; height:auto;">
 </div>
 
 - 👋 Hi, I’m @TewaritTholee
